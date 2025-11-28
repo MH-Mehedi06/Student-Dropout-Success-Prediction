@@ -1,1 +1,1 @@
-# Student-Dropout-Success-Prediction
+# Student Dropout and Academic Success Prediction Using Machine Learning 
